@@ -13,7 +13,7 @@
 
 ### 其它作品展示
 * [个人博客网站]（https://litongtong.gitee.io/)
-* [个人简历]（https://litongtong.gitee.io/resume/）
+* [个人简历]（https://litongtong.gitee.io/resume/)
 
 ### 联系方式
 * 微信：15015089209
