@@ -12,7 +12,7 @@
 * 尝试了使用数据库管理数据
 
 ### 其它作品展示
-* [个人博客网站](https://litongtong.gitee.io/)
+* [个人博客网站]（https://litongtong.gitee.io/)
 * [个人简历]（https://litongtong.gitee.io/resume/）
 
 ### 联系方式
